@@ -1,6 +1,6 @@
 # Toolkit
 
-This is taken almost directly from [a Udemy course](udemy.com/course/building-a-module-in-go-golang/) by [Dr. Trevor Sawler](https://github.com/tsawler/toolbox).
+This is taken almost directly from [a Udemy course](https://udemy.com/course/building-a-module-in-go-golang/) by [Dr. Trevor Sawler](https://github.com/tsawler/toolbox).
 
 A simple example of how to create a reusable Go module with commonly used tools.
 
